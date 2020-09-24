@@ -1,4 +1,4 @@
-# warp-api-starter-template 
+# WIP experimental
 
 This is a starting point for a starter template, this is far from usable from a starter template perspective.
 The work is in progress and not recommended for production use at the moment.
